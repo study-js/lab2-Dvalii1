@@ -1,4 +1,4 @@
-for (var i = 0; i < 21; ++i) {
+for (var i = 2; i < 21; ++i) {
     
         var ricxvi = true;
     
@@ -11,5 +11,4 @@ for (var i = 0; i < 21; ++i) {
         if (ricxvi) {
             document.write(i + "<br>");
         }
-    }
-    
+}
